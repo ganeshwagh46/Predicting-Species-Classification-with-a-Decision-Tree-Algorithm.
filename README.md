@@ -17,15 +17,7 @@ Visualized the structure of the Decision Tree.
 
 Evaluated model performance using accuracy and classification metrics.
 
-## 📂 Data Overview
-
-Source: [Specify dataset – e.g., UCI ML Repository / custom dataset]
-
-Target Variable: [e.g., Customer churn / Loan approval / etc.]
-
-Features: [List main features used]
-
-Data Preparation:
+## 📂 Data Preparation:
 
 Handled missing values.
 
