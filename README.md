@@ -9,7 +9,7 @@ This project demonstrates the implementation of a Decision Tree Classifier for p
 
 Key Contributions:
 
-Applied Decision Tree Algorithm for classification.
+Applied Decision Tree Algorithm for classification
 
 Conducted data preprocessing & cleaning.
 
